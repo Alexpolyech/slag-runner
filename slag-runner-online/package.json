@@ -1,0 +1,8 @@
+{
+  "name": "slag-runner-online",
+  "version": "1.0.0",
+  "description": "Slag Runner: a shooter-platformer with online co-op for up to 4 players",
+  "private": true,
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
